@@ -1,0 +1,31 @@
+# Core Python
+python>=3.9
+
+# Testing
+pytest>=7.0
+pytest-cov>=4.0
+
+# PDF processing
+pypdf>=3.0
+
+# Embeddings + vector search
+sentence-transformers>=2.2
+numpy>=1.23
+scipy>=1.9
+scikit-learn>=1.0
+
+# Claude API
+anthropic>=0.7
+
+# Data processing
+pandas>=1.5
+
+# Configuration + logging
+python-dotenv>=0.20
+pydantic>=1.10
+
+# Optional: Deployment (add later in Week 3-4)
+# streamlit>=1.20
+# boto3>=1.26
+# fastapi>=0.95
+# uvicorn>=0.21
